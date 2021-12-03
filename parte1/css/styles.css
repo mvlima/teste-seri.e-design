@@ -93,7 +93,7 @@ body {
   background: #ccc;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 520px) {
   .search-container {
     display: none;
   }
@@ -168,7 +168,7 @@ body {
   overflow: hidden;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 520px) {
   .navbar a.navbar-link {display: none;}
   .navbar a.icon {
     float: right;
@@ -294,7 +294,7 @@ body {
   padding-left: 9px;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 520px) {
   .categories {
     display: block;
   }
