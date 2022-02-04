@@ -7,6 +7,8 @@
 
 O objetivo deste teste fazer uma página em HTML e CSS, para o layout dado pelo .psd disponível na pasta .psd, simulando uma loja chamada 'PET Store'.
 
+[Acessar página](https://pet-store-serie.netlify.app)
+
 **Observações:**
 * Os produtos podem ser trazidos em html estático ou sendo puxado por alguma API;
 * O código deve ser responsivo, com o tamanho máximo de container de 1170px, podendo ter apenas quebras em 1024px, 768px e 520px;
